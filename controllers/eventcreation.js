@@ -37,7 +37,7 @@ module.exports = {
                     availableseats: { $subtract: ["$totalseats", "$bookedseats"] }
                 }
             }]).then((eventlist) => {
-                return res.status(200).send(eventlist)
+                return res.status(200).send({ status: 'success', message: 'success', eventlist })
             })
             .catch((error) => res.status(400).send({ status: 'Failed', message: error.message }));
     },
