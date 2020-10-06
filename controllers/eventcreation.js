@@ -22,7 +22,7 @@ module.exports = {
             .catch((error) => res.status(400).send({ status: 'Failed', message: error.message }));
     },
     eventlist(req, res) {
-        var regex = new RegExp(req.body.eventname, "i")
+        var regex = new RegExp(req.params.eventname, "i")
         return eventcreation.aggregate([{
                 $match: {
                     $or: [
