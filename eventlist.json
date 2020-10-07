@@ -1,43 +1,43 @@
 [{
         "_id": "5f7b406bc63fcc337c84b083",
         "eventname": "event 1",
-        "eventimg": "./eventimg/event.jpg",
+        "eventimg": "https://bootdey.com/img/Content/avatar/avatar7.png",
         "eventdate": "09-05-2020",
-        "availableseats": 30
+        "availableseats": 0
     },
     {
         "_id": "5f7b40b8c63fcc337c84b084",
         "eventname": "cultural",
-        "eventimg": "./eventimg/event.jpg",
+        "eventimg": "https://bootdey.com/img/Content/avatar/avatar7.png",
         "eventdate": "12-05-2020",
         "availableseats": 30
     },
     {
         "_id": "5f7b40ecc63fcc337c84b085",
         "eventname": "meetup",
-        "eventimg": "./eventimg/event.jpg",
+        "eventimg": "https://bootdey.com/img/Content/avatar/avatar7.png",
         "eventdate": "12-05-2020",
-        "availableseats": 30
+        "availableseats": 20
     },
     {
         "_id": "5f7b40f9c63fcc337c84b086",
         "eventname": "asia cup 2020",
-        "eventimg": "./eventimg/event.jpg",
+        "eventimg": "https://bootdey.com/img/Content/avatar/avatar7.png",
         "eventdate": "14-05-2020",
         "availableseats": 30
     },
     {
         "_id": "5f7b415fc63fcc337c84b087",
         "eventname": "naveen party",
-        "eventimg": "./eventimg/event.jpg",
+        "eventimg": "https://bootdey.com/img/Content/avatar/avatar7.png",
         "eventdate": "10-05-2020",
-        "availableseats": 30
+        "availableseats": 10
     },
     {
         "_id": "5f7b41a9c63fcc337c84b088",
         "eventname": "colleage meetup",
-        "eventimg": "./eventimg/event.jpg",
+        "eventimg": "https://bootdey.com/img/Content/avatar/avatar7.png",
         "eventdate": "10-05-2020",
-        "availableseats": 30
+        "availableseats": 0
     }
 ]
